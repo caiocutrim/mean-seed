@@ -17,6 +17,7 @@ Clone this repository with git clone http://github.com/caiocutrim/mean-seed and 
 
 This will run the default instalation dependencies and run the grunt-task-serve  
 I will be happy to get your commits with this repository.  
+**Delete the 'initial files'
 
 # Non-functional observations 
 I am following the specifc style structure directories, feel free to change 
